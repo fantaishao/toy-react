@@ -1,6 +1,6 @@
 class ElementWrapper {
    constructor(type) {
-       this.element = document.createElement(type)
+       this.root = document.createElement(type)
    }
    setAttribute(name, value) {
        this.root.setAttribute(name, value);
