@@ -11,3 +11,5 @@
 
 > 8By default, babel, etc, will transform <div id="hello" /> to React.createElement("div", { id: "hello" });. pragma: h will generate instead, as h("div", { id: "hello" });.
 > React.createElement, (or h for Preact) is the function to build the virtual DOM.
+
+##### JavaScript中的range方法 可以截图一个片段
